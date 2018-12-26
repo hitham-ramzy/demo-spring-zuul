@@ -1,0 +1,9 @@
+server:
+  port: 9871
+spring:
+  application:
+    name: alten-zuul
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: true
