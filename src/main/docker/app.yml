@@ -1,0 +1,6 @@
+version: '2'
+services:
+    alten-zuul:
+        image: alten-zuul
+        ports:
+            - 9871:9871
